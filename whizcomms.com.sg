@@ -1,0 +1,6 @@
+# prefix, country_code, region_code, city, postal
+38.255.64.0 - 38.255.71.255 /21, SG, SG-01, Singapore,
+38.188.216.0 - 38.188.223.255 /21, SG, SG-01, Singapore,
+38.191.240.0 - 38.191.247.255 /2 , SG, SG-01, Singapore,
+38.29.152.0 - 38.29.159.255 /21, SG, SG-01, Singapore,
+38.72.80.0 - 38.72.87.255 /21, SG, SG-01, Singapore,
